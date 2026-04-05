@@ -13,15 +13,15 @@
 - 🌱 &nbsp; I'm currently deepening my expertise in **Databricks, dbt, and Lakehouse Architecture**
 - 💬 &nbsp; Ask me about **Kafka, Spark, Snowflake, AWS, dbt, Python, SQL**
 - 🏥 &nbsp; I specialize in **Healthcare & Financial data engineering**
-- 🌍 &nbsp; All my projects are available at **[My Portfolio](https://hetal4246.github.io/Portfolio)**
+- 🌍 &nbsp; Check out my portfolio: **[hetal4246.github.io](https://hetal4246.github.io/)**
 - 📫 &nbsp; How to reach me: **hetalvaghela1010@gmail.com**
 
 <br/>
 
 ## 🌐 Socials
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0f0d?style=for-the-badge&logo=googlechrome&logoColor=1D9E75)](https://hetal4246.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hetal42)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hetal4246.github.io/Portfolio)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetalvaghela1010@gmail.com)
 
 <br/>
@@ -67,20 +67,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Amazon QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hetal4246&show_icons=true&theme=dark&bg_color=0d1117&title_color=1D9E75&icon_color=5DCAA5&text_color=8aad9e&border_color=1D9E75&count_private=true" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetal4246&layout=compact&theme=dark&bg_color=0d1117&title_color=1D9E75&text_color=8aad9e&border_color=1D9E75" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hetal4246&theme=dark&background=0d1117&border=1D9E75&ring=1D9E75&fire=5DCAA5&currStreakLabel=5DCAA5&sideLabels=8aad9e&dates=4a6b5c" />
-</p>
 
 <br/>
 
